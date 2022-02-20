@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-shadow: 1px 1px yellow;
+}
+fieldset {
+    background-color: aqua;
+    border: none;
+}
+legend {
+    background-color: red;
+    color: white;
+}
+p.pollDate {
+    display: inline;
+}
+#validacion {
+    display: inline;
+}
+input[type=text] {
+    background-color: yellow;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 1px 1px #f3c4cf;
+}
+button {
+    background-color: #f3c4cf;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px gray;
+}
